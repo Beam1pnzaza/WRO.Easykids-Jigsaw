@@ -12,10 +12,7 @@ Engineering book
 
 ➡️ 2 photos of team 
     official photo
- 
- # image
-    ![Team official](https://user-images.githubusercontent.com/86812911/184960975-02bec54e-dc69-4b1d-8088-179001aea1d6.png)
-
+ https://cdn.discordapp.com/attachments/905473002588741672/1009176624853418034/297624978_1030329087631177_2256665102691737161_n-removebg-preview_1.png
     fun photo
     
  #
