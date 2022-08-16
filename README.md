@@ -20,4 +20,10 @@ Engineering book
 ➡️ URL YouTube https://youtu.be/DIKNYzG0ZjA
 ➡️ Diagram of the electrical components
 
-CODING
+Processing of CAR
+- Program operation using 2 types of motor control
+👉🏻 1.DC motor to control the wheels in driving.
+👉🏻 2.Servo motor to control the turning of the car.
+The operation of the program will check the color by using OPENCV to check the blue and orange to find the distance of the line to control the turn. And use the distance sensor to detect the edge of the field for turning back into the field. If an object is found on the left side, the car turns right. If an object is found on the right, the car will turn left. And to detect traffic signs, use OPENCV Color detection to detect the location of traffic signs. Command the car to reverse itself to go in the right direction.
+- Driving system
+👉🏻 Steering system , it is easy to turn and avoiding obstacles such as green and red traffic signs 
