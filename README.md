@@ -14,7 +14,7 @@ Engineering book
     official photo
  
  #
-    ![Team official](https://user-images.githubusercontent.com/86812911/184959347-40b87e51-66a5-4f37-8b7c-25e7fd40b101.png)
+    ![Team official](https://user-images.githubusercontent.com/86812911/184960975-02bec54e-dc69-4b1d-8088-179001aea1d6.png)
 
     fun photo
     
