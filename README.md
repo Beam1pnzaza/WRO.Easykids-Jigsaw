@@ -13,9 +13,9 @@ Engineering book
 ➡️ 2 photos of team 
  
     official photo
-    ![Alt text](Photos team and car/Team official.jpg?raw=true "Title")
+    ![Team official](/Photos%20team%20and%20car/Team%20official.png?raw=True)
     fun photo
-    
+
 ➡️ 6 photos of car
 ➡️ URL YouTube https://youtu.be/DIKNYzG0ZjA
 ➡️ Diagram of the electrical components
