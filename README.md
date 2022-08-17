@@ -14,17 +14,28 @@ Engineering book
 #
    ![Team official](https://user-images.githubusercontent.com/86812911/185018564-ee4f0253-1327-4d0c-bce8-fcca8c471f2c.png)
  
- official photo
+official photo
  
    #
    ![Team fun](https://user-images.githubusercontent.com/86812911/185018925-9fddbb4a-2c1b-4e55-abe7-0f33aa3e9bb1.png)
    
- fun photo
+fun photo
    
 ➡️ 6 photos of car
 #
+ ![Front view](https://user-images.githubusercontent.com/86812911/185021819-01979c7b-544c-4430-9a17-ee86f15d84ed.png)
+ 
+Front view
+ 
+ #
+ ![Back view](https://user-images.githubusercontent.com/86812911/185022007-109e785d-691f-47f7-9ebc-828b5a0c551d.png)
 
+Back view
+ 
+ #
+ ![Left view](https://user-images.githubusercontent.com/86812911/185022270-8f4a4c41-260b-4c79-b1ff-815a1be6f407.png)
 
+Left view
 
 ➡️ URL YouTube https://youtu.be/DIKNYzG0ZjA
 ➡️ Diagram of the electrical components
