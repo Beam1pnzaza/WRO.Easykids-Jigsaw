@@ -10,7 +10,7 @@ Engineering book
 - URL to YouTube showing movement automatically
 - A diagram of the electrical components showing all the elements(electronic components and motors) that used in the car and how it is interconnected
 
--➡️ 2 photos of team 
+➡️ 2 photos of team 
 #
    ![Team official](https://user-images.githubusercontent.com/86812911/185018564-ee4f0253-1327-4d0c-bce8-fcca8c471f2c.png)
  
@@ -21,8 +21,8 @@ official photo
    
 fun photo
    
-
--➡️ 6 photos of car
+#
+➡️ 6 photos of car
 #
  ![Front view](https://user-images.githubusercontent.com/86812911/185021819-01979c7b-544c-4430-9a17-ee86f15d84ed.png)
  
