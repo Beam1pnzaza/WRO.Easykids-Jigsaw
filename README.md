@@ -53,8 +53,13 @@ Right view
 
 Bottom view
 
+#
 ➡️ URL YouTube https://youtu.be/DIKNYzG0ZjA
+#
+#
 ➡️ Diagram of the electrical components
+#
+![diagram Easykids-Jigsaw](https://user-images.githubusercontent.com/86812911/185024593-9485a099-e50b-49f0-a4c2-60b69b045552.jpg)
 
 Processing of CAR
 - Program operation using 2 types of motor control
