@@ -39,8 +39,19 @@ Back view
 Left view
 
 # 
+![Right view](https://user-images.githubusercontent.com/86812911/185023588-81246b7d-21a3-4688-98cd-e2aa7b19ca40.png)
 
+Right view
+ 
+ #
+ ![Top view](https://user-images.githubusercontent.com/86812911/185023869-c9470ba2-d290-4002-b9ce-d4954c8715c8.png)
+ 
+ Top view
+ 
+ #
+![Bottom view](https://user-images.githubusercontent.com/86812911/185023962-b660b3fd-51f7-469c-8699-35e026b878c9.png)
 
+Bottom view
 
 ➡️ URL YouTube https://youtu.be/DIKNYzG0ZjA
 ➡️ Diagram of the electrical components
