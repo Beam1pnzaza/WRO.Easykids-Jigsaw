@@ -12,8 +12,9 @@ Engineering book
 
 ➡️ 2 photos of team 
     official photo
- https://cdn.discordapp.com/attachments/905473002588741672/1009176624853418034/297624978_1030329087631177_2256665102691737161_n-removebg-preview_1.png
-    fun photo
+#
+   
+   fun photo
     
  #
    
