@@ -11,13 +11,13 @@ Engineering book
 - A diagram of the electrical components showing all the elements(electronic components and motors) that used in the car and how it is interconnected
 
 ➡️ 2 photos of team 
-    official photo
+   
+   official photo
 #
    ![Team official](https://user-images.githubusercontent.com/86812911/185018564-ee4f0253-1327-4d0c-bce8-fcca8c471f2c.png)
 
    fun photo
-    
- #
+   #
    
 ➡️ 6 photos of car
 ➡️ URL YouTube https://youtu.be/DIKNYzG0ZjA
