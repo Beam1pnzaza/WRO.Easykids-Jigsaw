@@ -38,6 +38,10 @@ Back view
 
 Left view
 
+# 
+
+
+
 ➡️ URL YouTube https://youtu.be/DIKNYzG0ZjA
 ➡️ Diagram of the electrical components
 
